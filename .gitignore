@@ -128,14 +128,14 @@ nb-configuration.xml
 
 ## nodejs
 ################################
-!/node_modules
-!*/node_modules
-!/node_modules/
-!/node_modules/*
+# !/node_modules
+# !*/node_modules
+# !/node_modules/
+# !/node_modules/*
 
-!**/../../node_modules
-!**/../../node_modules/
-!**/../../node_modules/*
+!**/node_modules
+!**/node_modules/
+!**/node_modules/*
 ################################
 
 ## npm
