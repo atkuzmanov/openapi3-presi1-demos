@@ -128,15 +128,7 @@ nb-configuration.xml
 
 ## nodejs
 ################################
-# !/node_modules
-# !*/node_modules
-# !/node_modules/
-# !/node_modules/*
-
-# !**/node_modules
-# !**/node_modules/
-# !**/node_modules/*
-
+# Adding node_modules dir temporarily for demo.
 !**/node_modules
 !**/node_modules/
 !**/node_modules/*
