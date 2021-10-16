@@ -27,8 +27,8 @@
     "express-openapi-validate": "^0.6.1",
     "mocha": "^9.0.2",
     "rxjs": "~6.6.0",
-    "supertest": "^6.1.3",
-    "tslib": "^2.0.0",
+    "supertest": "^6.1.6",
+    "uri-js": "^4.4.1",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
@@ -36,7 +36,7 @@
     "@angular/cli": "~11.2.12",
     "@angular/compiler-cli": "~11.2.13",
     "@types/jasmine": "~3.6.0",
-    "@types/node": "^12.11.1",
+    "@types/node": "^12.20.33",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
@@ -47,6 +47,7 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
+    "tslib": "^2.3.1",
     "tslint": "~6.1.0",
     "typescript": "~4.1.5"
   },
